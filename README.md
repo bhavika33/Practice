@@ -1,4 +1,4 @@
 # Practice
 This is my first git repo
 <br>
-Author - Bhavika
+Author - Bhavika Bhardwaj
